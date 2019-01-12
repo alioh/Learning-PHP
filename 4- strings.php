@@ -2,6 +2,7 @@
 
 $first_name = 'Ali';
 
+#   double quotes is like .format (f"  ") in python.
 echo "$first_name O\n";
 
 $last_name = 'O';
